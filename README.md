@@ -32,9 +32,9 @@ This board is part of the **Raptor project** by [Infinite](https://github.com/in
 
 - **FB1** : Ferrite bead (power supply noise filtering)
 
-- **R1** : USB pull-up resistor
+- **R3** : USB pull-up resistor
 - **R2** : MCU reset / configuration pull resistor
-- **R3, R4, R5** : Current limiting / configuration resistors
+- **R1, R4, R5** : Current limiting / configuration resistors
 
 - **C1, C2** : Bulk input/output decoupling capacitors
 - **C3, C4, C5, C6, C11** : MCU decoupling capacitors
